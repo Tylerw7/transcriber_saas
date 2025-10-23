@@ -42,8 +42,8 @@ export default function Navbar() {
         >
           <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 md:px-8">
             {/* Left side - logo/text */}
-            <Link href="/" className="text-xl font-semibold">
-              Transcriber
+            <Link href="/" className="text-2xl font-bold">
+              Transcriber<span className="text-2xl font bold text-orange-500"> Agent</span>
             </Link>
 
             {/* Right side */}
