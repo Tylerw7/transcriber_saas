@@ -51,7 +51,7 @@ export default function Navbar() {
               <NavigationMenu>
                 <NavigationMenuList>
                   <NavigationMenuItem>
-                    <Link href="/signup">
+                    <Link href="/register">
                       <Button>Sign Up</Button>
                     </Link>
                   </NavigationMenuItem>
