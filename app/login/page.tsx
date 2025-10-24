@@ -3,7 +3,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 
-export default function RegisterPage() {
+export default function LoginPage() {
   return (
     <main className="min-h-screen bg-gray-100 flex items-center justify-center px-4 sm:px-6 lg:px-8">
       <Card className="w-full max-w-md shadow-xl">
